@@ -1,0 +1,7 @@
+git remote add origin https://github.com/liixn11122/web.git
+git branch -M main
+git push -u origin main
+
+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
+git config --global user.name "liixn11122"
+git config --global user.email "lixin0497@outlook.com"
