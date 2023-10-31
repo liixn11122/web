@@ -15,3 +15,25 @@ h1 {
 h2 {
 	font-size: 1.3em;
 }
+*{padding: 0px;margin: 0px;}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; /* 新增内边距 */
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; 
+  margin:              30px;  /* 新增外边距 */
+}

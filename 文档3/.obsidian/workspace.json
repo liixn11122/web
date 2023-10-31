@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
+                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
+                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
+                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md"
+                "file": "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md"
               }
             }
           }
@@ -147,5 +147,11 @@
     }
   },
   "active": "a0362931824e1c00",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/2 了解盒模型(30min).md",
+    "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
+    "WebDesignTutorial/WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md",
+    "WebDesignTutorial/WebDesignTutorial/15 实训5：改造 Tony 的旅行日志/1 上机实训：HTML 改造(20min).md",
+    "WebDesignTutorial/WebDesignTutorial/15 实训5：改造 Tony 的旅行日志/2 上机实训：CSS 改造(40min).md"
+  ]
 }
