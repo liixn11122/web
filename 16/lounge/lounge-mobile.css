@@ -2,6 +2,10 @@ body {
   font-size:           small;
   font-family:         Verdana, Helvetica, Arial, sans-serif;
   line-height:         1.6em;
+  .guarantee {
+  background-image: url(images/background.gif);
+}
+
 }
 
 h1, h2 {

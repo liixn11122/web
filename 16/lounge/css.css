@@ -1,0 +1,16 @@
+body{
+.guarantee{
+background-image: url(images/background.gif)
+}
+.guarantee{margin-right: 250px;}
+}
+h1{
+.guarantee{
+background-repeat: no-repeat;
+background-position: top left;
+}
+}
+h1,h2{
+padding: 25px;
+padding-left: 80px;
+}

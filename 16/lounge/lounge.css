@@ -37,3 +37,17 @@ h2 {
   padding:             25px; 
   margin:              30px;  /* 新增外边距 */
 }
+.guarantee {
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.guarantee {
+  background-image: url(images/background.gif);
+}
+.guarantee {
+  padding: 25px;
+  padding-left: 80px;
+}
+  .guarantee {
+  background-image: url(images/background.gif);
+}
