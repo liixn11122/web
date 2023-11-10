@@ -1,0 +1,149 @@
+body {
+	font-size: small; /* 新的属性值，请自行了解 */
+	font-family: Verdana， Helvetica， Arial;
+  line-height: 1.6em
+}
+
+
+h1, h2 {
+  color: #007e7e;
+  h2 {
+  color: black;
+}
+
+
+div h2 {
+  color: black;
+}
+}
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+*{padding: 0px;margin: 0px;}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; /* 新增内边距 */
+}
+.guarantee {
+  border-color:        white;
+  border-width:        1px;
+  border-style:        dashed;
+  background-color:    #a7cece;
+  padding:             25px; 
+  margin:              30px;  /* 新增外边距 */
+}
+.guarantee {
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.guarantee {
+  background-image: url(images/background.gif);
+}
+.guarantee {
+  padding: 25px;
+  padding-left: 80px;
+}
+  .guarantee {
+  background-image: url(images/background.gif);
+}
+.elixirs {
+	border-width: thin;
+	border-style: solid;
+	border-color: #007e7e;
+  width: 200px;
+  padding-right:   20px;
+	padding-bottom:  20px;
+	padding-left:    20px;
+	
+	margin-left:     20px;
+  background-image:    url(images/cocktail.gif);
+	background-repeat:   repeat-x;
+
+	text-align:          center; 
+}
+
+h1, h2 {
+  color: #007e7e;
+}
+
+/* 直接修改 h2 是错误的做法 */
+h2 {
+  color: black;
+}
+
+
+div h2 {
+  color: black;
+}
+    <h2>What's playing at the Lounge</h2>
+    <p>
+      We're frequently asked about the music we play at the lounge, and no wonder, it's great stuff. Just for you, we keep a list here on the site, updated weekly. Enjoy.
+    </p>
+    <ul>
+      <li>Buddha Bar, Claude Challe</li>
+      <li>When It Falls, Zero 7</li>
+      <li>Earth 7, L.T.J. Bukem</li>
+      <li>Le Roi Est Mort, Vive Le Roi!, Enigma</li>
+      <li>Music for Airports, Brian Eno</li>
+    </ul>
+    <li>
+	<div class="cd">Buddha Bar</div>, 
+	<div class="artist">Claude Challe</div>
+</li>
+<ul>
+    <li>
+	      <span class="cd">Buddha Bar</span>, 
+	      <span class="artist">Claude Challe</span>
+	</li>
+	<li>
+	    <span class="cd">Earth 7</span>, 
+	    <span class="artist">L.T.J. Bukem</span>
+	</li>
+    <li>
+	    <span class="cd">When It Falls</span>, 
+	    <span class="artist">Zero 7</span>
+	</li>
+
+    <li>
+	    <span class="cd">Le Roi Est Mort, Vive Le Roi!</span>,
+	    <span class="artist">Enigma</span>
+	</li>
+    <li>
+	    <span class="cd">Music for Airports</span>,
+	    <span class="artist">Brian Eno</span>
+	</li>
+</ul>
+.cd {
+	font-style: italic;
+}
+
+.artist {
+	font-weight: bold;
+}
+/* 未访问状态 */
+a:link {
+  color: green;
+}
+
+/* 已访问状态 */
+a:visited {
+  color: red;
+}
+
+/* 悬停状态 */
+a:hover {
+  color: yellow;
+}
